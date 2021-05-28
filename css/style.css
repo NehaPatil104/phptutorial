@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+body{
+	padding: 0px;
+	overflow-x: hidden;
+}
+.clr{
+	color: #2f3e85;
+}
+.clr-secondary{
+	color:#939fd5;
+}
+
+
+.btn-primary{
+	background-color: #2f3e85 !important;
+	border-color: #2f3e85 !important;
+}
+.btn-primary a{
+	font-size: 1.2rem;
+	padding: 10px;
+	text-decoration:none;
+	color: white;
+}
+.btn-primary a:hover{
+	text-decoration:none;
+	color: white;
+
+}
